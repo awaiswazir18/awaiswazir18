@@ -54,12 +54,12 @@ I'm a **BS Computer Systems** student at **Riphah International University, Isla
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AwaisWazir&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=9B111E&text_color=333333&icon_color=9B111E&border_color=9B111E&border_radius=10" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisWazir&layout=compact&bg_color=FFFFFF&title_color=9B111E&text_color=333333&border_color=9B111E&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=awaiswazir18&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=9B111E&text_color=333333&icon_color=9B111E&border_color=9B111E&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiswazir18&layout=compact&bg_color=FFFFFF&title_color=9B111E&text_color=333333&border_color=9B111E&border_radius=10" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AwaisWazir&background=FFFFFF&ring=9B111E&fire=9B111E&currStreakLabel=9B111E&border=9B111E&stroke=9B111E&currStreakNum=333333&sideNums=333333&sideLabels=9B111E&dates=666666" />
+<img src="https://streak-stats.demolab.com?user=awaiswazir18&background=FFFFFF&ring=9B111E&fire=9B111E&currStreakLabel=9B111E&border=9B111E&stroke=9B111E&currStreakNum=333333&sideNums=333333&sideLabels=9B111E&dates=666666" />
 
 </div>
 
